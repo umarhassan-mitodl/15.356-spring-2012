@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 file_size: null
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -13,8 +15,8 @@ optional_text: '[Lecture 3: Users Working Together in Communities Are Powerful I
   (PDF - 3.6MB)](/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/resources/mit15_356s12_lec03)'
 parent_title: Lecture Videos
 parent_type: CourseSection
-related_resources_text: 'knuckletube. {{% resource_link "a81a0c84-cd66-45c3-9fe1-e9d8c8aa06f4"
-  "\"SkateBoarding: The Birth of Vertical (The DogTown Video).\"" %}}'
+related_resources_text: 'knuckletube. ["SkateBoarding: The Birth of Vertical (The
+  DogTown Video)."](http://www.youtube.com/watch?v=1ieY0Zu9IiE)'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
